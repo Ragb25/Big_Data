@@ -52,11 +52,8 @@ zu verbessern.
 │   ├── 1_fehlende_werte.png
 │   ├── 2_fraud_verteilung.png
 │   ├── 3_boxplots_merkmale.png
-│   ├── 4_konfusionsmatrix.png
-│   ├── 5_roc_auc_vergleich.png
 │   ├── 6_precision_recall_f1_final.png
 │   ├── score_verteilung_original.png
-│   └── isolation_forest_streudiagramm.png
 ├── vorbericht.pdf                 
 └── README.md
 ```
